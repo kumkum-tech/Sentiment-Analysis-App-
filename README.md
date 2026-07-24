@@ -5,8 +5,7 @@ A Machine Learning and Natural Language Processing (NLP) based web application t
 ---
 
 ## 🚀 Live Demo
-
-*Add your deployed Streamlit link here*
+https://5zd4eqdka99jgotixnsbdd.streamlit.app/
 
 ---
 
